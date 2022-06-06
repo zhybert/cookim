@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="C:\Users\korut\Desktop\Сайт 2\Сайт 2\1.css">
+    <title>Laboratory 2</title>
+</head>
+<body>
+    <div class="main">
+        <div class="header">
+            <div class="header-logo__section">
+                <h1 class="header-logo"><a href="https://ramdajs.com/" class="header-logo__text">Ra<span class="header-logo__color">mda.js</span></a></h1>
+            </div>
+            <div class="header-list__section">
+                <ul class="header-list">
+                    <li class="header-list__item"><a href="https://www.youtube.com/watch?v=AINnOyUVEyI/" class="header-list__link">Functional Programming</a></li>
+                    <li class="header-list__item"><a href="https://www.youtube.com/watch?v=UQQSM0ynGmE/" class="header-list__link">Ramda</a></li>
+                    <li class="header-list__item"><a href="https://www.youtube.com/watch?v=HmY067CJ7s4/" class="header-list__link">Fantasy Land Spec</a></li>
+                    <li class="header-list__item"><a href="https://www.youtube.com/watch?v=Oe421EPjeBE/" class="header-list__link">Node.js for all</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="main">
+            <div class="main-list__section">
+                <ul class="main-list">
+                    <li class="main-list__item">Ramda</li>
+                    <li class="main-list__item">Why Ramda?</li>
+                    <li class="main-list__item">What's Different?</li>
+                    <li class="main-list__item">Introductions</li>
+                    <li class="main-list__item">Philosophy</li>
+                </ul>
+            </div>
+            <div class="main-img-text-section">
+                <div class="img-section">
+                    <img src="C:\Users\korut\Desktop\Сайт 2\Сайт 2\Images\1картинка.png" class="img">
+                </div>
+                <div class="text-section">
+                    <p class="main-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sagittis ut orci non luctus. 
+                        Quisque quis volutpat metus, ac mattis nisl. Pellentesque pellentesque sed neque nec venenatis. 
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla a massa in velit lacinia blandit eu ac orci. 
+                        Proin id dolor vitae augue fermentum gravida sit amet sed lacus. Nunc tincidunt augue in nisi semper, nec dapibus purus volutpat. 
+                        Ut tempor et sapien vitae mollis. Donec gravida ut est quis mattis. Morbi varius pretium pharetra. Nam eleifend aliquet neque nec dictum. 
+                        Phasellus volutpat tincidunt ligula.</p>
+                    <p class="main-text">Curabitur ante magna, euismod sit amet felis vitae, molestie blandit urna. 
+                        Ut viverra auctor erat, ut posuere enim faucibus quis. Praesent tempus velit ac neque rhoncus vulputate. 
+                        Donec pretium justo ex, ac fringilla mi faucibus eu. Nullam vitae nisl leo. 
+                        Nullam laoreet consectetur libero vel fringilla. Proin at quam nec est euismod posuere eu a ex. Aenean a ultricies nibh. 
+                        Vivamus in tellus hendrerit, dignissim tellus at, luctus dui.</p>
+                </div>
+            </div>
+        </div>
+        <div class="footer">
+            <div class="footer-list__section">
+                <ul class="footer-list">
+                    <li class="footer-list__item">Ramda</li>
+                    <li class="footer-list__item">Why Ramda?</li>
+                    <li class="footer-list__item">What's Different?</li>
+                    <li class="footer-list__item">Introductions</li>
+                    <li class="footer-list__item">Philosophy</li>
+                </ul>
+                <div class="footer-text__section">
+                    <span class="footer-text">Copyright &#169; 2018</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Project3</title>
+    <link rel="stylesheet" type="text/css" href="reset.css">
+    <link rel="stylesheet" type="text/css" href="main.css">
+    <style>
+        
+    </style>
+</head>
+<body>
+    <div class="wrapper">
+        <header>
+            <div class="logo-image">
+                <img src="./Photos/logo.png" alt="">
+            </div>
+           <div class="logo">
+               <h2>MILAN</h2>
+               <h3>HOLIDAYS</h3>
+           </div>
+           <div class="contact-info">
+               <p >tours@milanoholidays.com</p>
+               <p >+39 397 718 4023</p>
+           </div>
+        </header>
+        <div class="main-content">
+            <div class="photos-block">
+                <a href="">
+                    <img class="photos" src="./Photos/3.png" alt="">
+                </a>
+                <a href=""><p class="photo-text">Food Tours</p></a>
+                <div class="photo-info">
+                    <p class="photo-text1">from:</p>
+                    <p class="photo-text2">$50</p>
+                    <span class="photo-text3">View details </span>
+                </div>
+            </div>
+            <div class="photos-block">
+                <a href="">
+                    <img class="photos" src="./Photos/2.png" alt="">
+                </a>
+                <a href=""><p class="photo-text">Sightseeing Tours</p></a>
+                <div class="photo-info">
+                    <p class="photo-text1">from:</p>
+                    <p class="photo-text2">$50</p>
+                    <span class="photo-text3">View details</span>
+                </div>
+            </div>
+            <div class="photos-block">
+                <a href="">
+                    <img class="photos" src="./Photos/1.png" alt="">
+                </a>
+                <a href=""><p class="photo-text">Shopping Tours</p></a>
+                <div class="photo-info">
+                    <p class="photo-text1">from:</p>
+                    <p class="photo-text2">$50</p>
+                    <span class="photo-text3">View details</span>
+                </div>
+            </div>
+            <div class="photos-block">
+                <a href="">
+                   <img class="photos" src="./Photos/5.png" alt=""> 
+                </a>
+                <a href=""><p class="photo-text">Walking Tours</p></a>
+                <div class="photo-info">
+                    <p class="photo-text1">from:</p>
+                    <p class="photo-text2">$50</p>
+                    <span class="photo-text3">View details</span>
+                </div>
+            </div>
+            <div class="photos-block">
+                <a href="">
+                    <img class="photos" src="./Photos/6.png" alt="">
+                </a>
+                <a href=""><p class="photo-text">Art & Architecture</p></a>
+                <div class="photo-info">
+                    <p class="photo-text1">from:</p>
+                    <p class="photo-text2">$50</p>
+                    <span class="photo-text3">View details</span>
+                </div>
+            </div>
+            <div class="photos-block">
+                <a href="">
+                    <img class="photos" src="./Photos/4.png" alt="">
+                </a>
+                <a href=""><p class="photo-text">Bars & Nightlife</p></a>
+                <div class="photo-info">
+                    <p class="photo-text1">from:</p>
+                    <p class="photo-text2">$50</p>
+                    <span class="photo-text3">View details</span>
+                </div>
+            </div>
+        </div>
+
+        <footer>
+            <div class="foot">
+                © 2018 Copyright Milan Holidays, Inc. All rights reserved.
+            </div>
+        </footer>
+    </div>
+</body>
+</html>
